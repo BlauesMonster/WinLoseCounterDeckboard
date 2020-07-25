@@ -1,0 +1,7 @@
+name: Win Lose Remote
+package: win-lose-remote
+version: 1.0.0
+description: Creates and controls a Win-Lose-Counter through Deckboard
+author: Blaues Monster
+license: MIT
+repository: 'https://github.com/BlauesMonster/WinLoseCounterDeckboard.git'
