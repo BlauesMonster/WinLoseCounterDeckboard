@@ -4,7 +4,7 @@
   "description": "Creates and controls a Win-Lose-Counter through Deckboard",
   "main": "index.js",
   "dependencies": {
-    "electron": "^9.1.1",
+    "electron": "^15.5.5",
     "platform-folders": "^0.5.1",
     "deckboard-kit": "^0.1.0",
     "wintools": "^0.1.0"
